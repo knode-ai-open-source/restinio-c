@@ -1,6 +1,7 @@
-// SPDX-FileCopyrightText: 2024-2025 Knode.ai
+// SPDX-FileCopyrightText: 2025 Andy Curtis <contactandyc@gmail.com>
+// SPDX-FileCopyrightText: 2024–2025 Knode.ai — technical questions: contact Andy (above)
 // SPDX-License-Identifier: Apache-2.0
-// Maintainer: Andy Curtis <contactandyc@gmail.com>
+
 #include "restinio-c/restinio_c.h"
 #include <restinio/all.hpp>  // for restinio::run, on_thread_pool, create_response, etc.
 #include <thread>
